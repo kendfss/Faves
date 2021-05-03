@@ -1,0 +1,37 @@
+{
+    "expansions": {
+        "$bin": "E:\\IDEs\\Sublime Text 3", 
+        "$data": "$user\\AppData\\Roaming\\Sublime Text 3", 
+        "$installs": "$data/Installed Packages", 
+        "$locations": "C:\\Users\\Kenneth\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\locations.json", 
+        "$packages": "$data/Packages", 
+        "$user": "C:\\Users\\Kenneth"
+    }, 
+    "favourites": {
+        "0": "$locations", 
+        "1": "$packages", 
+        "2": "$data", 
+        "3": "$bin", 
+        "4": "$user", 
+        "5": "$installs",
+        "6": {
+            "paths": [
+                "$packages/Default/Default (Windows).sublime-keymap",
+                "$packages/User/Default (Windows).sublime-keymap"
+            ],
+            "new_window": true
+        },
+        "7": "/E/Languages/Python38-64/Lib/site-packages/sl4ng/__init__.py", 
+        "8": "/E/Projects/Monties/misc/ffplayer.py", 
+        "9": "/E/Projects/Monties/central_nervous_system.py", 
+        "10": "/E/gitting/gitclone/main.py", 
+        "11": "/c/users/kenneth/downloads/yearnings.txt", 
+        "12": "/f/ytdls/please refrain from touching the pelican/told you so/organize.py", 
+        "13": "/C/Users/Kenneth/Desktop/lixo.py",
+        "14": "../$locations",
+        "15": "../../$locations",
+        "16": "../../../$locations",
+        "17": "../../../../$locations",
+        "18": "../$packages"
+    }
+}
