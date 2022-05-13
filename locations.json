@@ -1,0 +1,14 @@
+{
+    "expansions": {
+        "$home": "~",
+        "$bin": "/Applications/Sublime Text.app/Contents/MacOS",
+        "$installs": "$data/Installed Packages",
+        "$locations": "/Users/kendfss/Library/Application Support/Sublime Text/Packages/Faves/locations.json",
+        "$packages": "$data/Packages",
+        "$user": "/Users/kendfss",
+        "darwin": {
+            "$data": "/Users/kendfss/Library/Application Support/Sublime Text"
+        }
+    },
+    "locations": {}
+}
